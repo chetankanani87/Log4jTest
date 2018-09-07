@@ -1,0 +1,11 @@
+2018-08-29 21:51:27,247 [main] INFO Log4jTest - Chrome Opened and Browser maximized and KSRTC website opened.
+2018-08-29 21:51:28,511 [main] INFO Log4jTest - Screenshot captured.
+2018-08-29 21:51:28,711 [main] INFO Log4jTest - Clicked on search button.
+2018-08-29 21:51:28,727 [main] INFO Log4jTest - Captured text.
+2018-08-29 21:51:28,762 [main] INFO Log4jTest - Accepted alert window.
+2018-08-29 21:52:35,762 [main] INFO Log4jTest - Chrome Opened and Browser maximized and KSRTC website opened.
+2018-08-29 21:52:37,054 [main] INFO Log4jTest - Screenshot captured.
+2018-08-29 21:52:37,165 [main] INFO Log4jTest - Clicked on search button.
+2018-08-29 21:52:37,174 [main] INFO Log4jTest - Captured text.
+2018-08-29 21:52:37,197 [main] INFO Log4jTest - Accepted alert window.
+2018-08-29 21:52:37,839 [main] INFO Log4jTest - Browser closed successfully. Congratulations...!!!
